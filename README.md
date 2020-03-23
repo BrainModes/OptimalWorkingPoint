@@ -36,7 +36,7 @@ In the study we explore brain dynamics for 50 different subjects across a wide r
 
 ### analysis scripts
 The following scripts run in Python and use some R functions. 
-Required toolboxes and modules: 
+Required toolboxes and modules: <br>
 Python
 1. numpy
 2. scipy
