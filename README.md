@@ -41,6 +41,7 @@ Python
 1. numpy
 2. scipy
 3. rpy2 (to call R functions from Python)
+
 R
 1. stats (for the ks.test. i.e. Kolmogorov-Smirnoff test)
 2. diptest (for Hartigan's diptest)
